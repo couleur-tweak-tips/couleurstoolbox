@@ -1,3 +1,0 @@
-ffmpeg
-@echo off
-pause
