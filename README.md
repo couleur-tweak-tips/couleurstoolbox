@@ -120,8 +120,6 @@ Inspiration came from:
 - [ChrisTitusTech's toolbox](https://github.com/ChrisTitusTech/win10script)
 
 Credits to:
-vladaad for the amazing ffmpeg scripts
+Tellinq for the amazing ffmpeg installation guide.
 
 Join [**CTT**](https://dsc.gg/ctt)
-
--[contact](https://couleur.tech)
