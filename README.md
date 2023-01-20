@@ -30,7 +30,7 @@ What it does:
 # 2. [Programs](https://github.com/couleurm/couleurstoolbox/tree/main/2%20%20Programs)
 
 A bunch of bats that will let you atomatically download & install some programs such as: 
-Brave, Chrome, Discord, Lightshot, N++, OBS 25.0.8, SearchEverything, Steam, Telegram, VLC & Anydesk (that list will get longer as time goes)
+Brave, Chrome, Discord, Lightshot, N++, OBS, SearchEverything, Steam, Telegram, VLC & Anydesk (that list will get longer as time goes)
 - Chocolatey
     - Batch file that installs you chocolatey
     - Editeable batch file that installs most known programs, it is strongly recommended that you edit it before running it.
@@ -84,13 +84,13 @@ MarkC's .regs to fix aceleration
 # 4. [Nvidia Drivers](https://github.com/couleurm/couleurstoolbox/tree/main/4%20Nvidia%20Drivers)
 
 - Links to NVCleanstall and DDU's websites to get latest.
-- VCleanstall 1.9.0 & DDU v18.3.9
+- NVCleanstall & DDU
 - Link to ChrisTitusTech's tutorial on these two programs
 # 5.  [OBS](https://github.com/couleurm/couleurstoolbox/tree/main/5%20OBS)
 
 Profiles (SOON)
 Super dark & Flat Dark themes (with `.lnk` to where to where you need to drag them in)
-Automatic download & install of OBS 25.0.8
+Automatic download & install of OBS
 Link to OBSproject's latest GitHub releases
 # 6.  [LunarClient (Minecraft)](https://github.com/couleurm/couleurstoolbox/tree/main/6%20LunarClient) 
 
@@ -125,4 +125,3 @@ vladaad for the amazing ffmpeg scripts
 Join [**CTT**](https://dsc.gg/ctt)
 
 -[contact](https://couleur.tech)
-
