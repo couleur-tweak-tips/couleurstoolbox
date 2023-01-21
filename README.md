@@ -65,7 +65,7 @@ Brave, Chrome, Discord, Lightshot, N++, OBS, SearchEverything, Steam, Telegram, 
 - Remove mouse acceleration
 MarkC's .regs to fix aceleration
 
-**W10 settings shortcuts**
+- **W10 settings shortcuts**
     - Default Apps
     - Disk manager
     - Game mode
@@ -117,7 +117,6 @@ Inspiration came from:
 
 - [Fr33thy's to-do folder](https://drive.google.com/drive/folders/1ocl1dZpyeRjgNGpmEIA-Ay4BJ8Jex_l1)
 - [ChrisTitusTech's toolbox](https://github.com/ChrisTitusTech/win10script)
-
-- Tellinq for the amazing ffmpeg install guide.
+- [Tellinq's ffmpeg install guide](https://www.youtube.com/watch?v=WwWITnuWQW4)
 
 Join [**CTT**](https://dsc.gg/ctt)
