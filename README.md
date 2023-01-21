@@ -65,8 +65,7 @@ Brave, Chrome, Discord, Lightshot, N++, OBS, SearchEverything, Steam, Telegram, 
 - Remove mouse acceleration
 MarkC's .regs to fix aceleration
 
-- **W10 settings shortcuts**
-    - Default Apps
+- W10 setting shortcuts - Default Apps
     - Disk manager
     - Game mode
     - GPU scheduling
