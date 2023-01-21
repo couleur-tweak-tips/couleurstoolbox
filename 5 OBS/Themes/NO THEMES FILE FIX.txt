@@ -1,0 +1,1 @@
+If you don't have a themes file, WIN + R, %APPDATA%\obs-studio\, then create a folder called themes.
