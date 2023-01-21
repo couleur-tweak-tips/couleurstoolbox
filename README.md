@@ -112,6 +112,9 @@ Inspiration came from:
 
 - [Fr33thy's to-do folder](https://drive.google.com/drive/folders/1ocl1dZpyeRjgNGpmEIA-Ay4BJ8Jex_l1)
 - [ChrisTitusTech's toolbox](https://github.com/ChrisTitusTech/win10script)
+
+Contributors:
 - [Tellinq's ffmpeg install guide](https://www.youtube.com/watch?v=WwWITnuWQW4)
+- [Vladaad's ffmpeg scripts](https://github.com/vladaad)
 
 Join [**CTT**](https://dsc.gg/ctt)
