@@ -12,7 +12,7 @@ function Check-7z {
     }
     else
     {
-        Write-Host "7z already exist. Skipped download" -ForegroundColor Green
+        Write-Host "7z already exists. Skipped download" -ForegroundColor Green
     }
 }
 
@@ -182,11 +182,11 @@ function Upgrade-Mpv {
         if ($result -eq "Y") {
             $need_download = $true
             if (Test-Path (Join-Path $env:windir "SysWow64")) {
-                Write-Host "Detecting System Type is 64-bit" -ForegroundColor Green
+                Write-Host "Detected System Type is 64-bit" -ForegroundColor Green
                 $arch = "x86_64"
             }
             else {
-                Write-Host "Detecting System Type is 32-bit" -ForegroundColor Green
+                Write-Host "Detected System Type is 32-bit" -ForegroundColor Green
                 $arch = "i686"
             }
             $remoteName = Get-Latest-Mpv $arch
