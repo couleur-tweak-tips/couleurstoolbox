@@ -30,7 +30,7 @@ What it does:
 # 2. [Programs](https://github.com/couleurm/couleurstoolbox/tree/main/2%20%20Programs)
 
 A bunch of bats that will let you atomatically download & install some programs such as: 
-Brave, Chrome, Discord, Lightshot, N++, OBS, SearchEverything, Steam, Telegram, VLC & Anydesk (that list will get longer as time goes)
+Brave, Chrome, Discord, Lightshot, N++, OBS, SearchEverything, Steam, Telegram, VLC & Anydesk (that list will get longer as time passes)
 - Chocolatey
     - Batch file that installs you chocolatey
     - Editeable batch file that installs most known programs, it is strongly recommended that you edit it before running it.
@@ -65,7 +65,7 @@ Brave, Chrome, Discord, Lightshot, N++, OBS, SearchEverything, Steam, Telegram, 
 - Remove mouse acceleration
 MarkC's .regs to fix aceleration
 
-:::spoiler **W10 settings shortcuts**
+**W10 settings shortcuts**
     - Default Apps
     - Disk manager
     - Game mode
@@ -79,7 +79,6 @@ MarkC's .regs to fix aceleration
     - Time and Date
     - User Account Control settings
     - Windows appearance
-:::
 
 # 4. [Nvidia Drivers](https://github.com/couleurm/couleurstoolbox/tree/main/4%20Nvidia%20Drivers)
 
@@ -88,14 +87,14 @@ MarkC's .regs to fix aceleration
 - Link to ChrisTitusTech's tutorial on these two programs
 # 5.  [OBS](https://github.com/couleurm/couleurstoolbox/tree/main/5%20OBS)
 
-Profiles (SOON)
+Profiles
 Super dark & Flat Dark themes (with `.lnk` to where to where you need to drag them in)
 Automatic download & install of OBS
 Link to OBSproject's latest GitHub releases
 # 6.  [LunarClient (Minecraft)](https://github.com/couleurm/couleurstoolbox/tree/main/6%20LunarClient) 
 
 - `.lnk` to download LC
-- #optimize-lunar-client channel link on [CTT](https://dsc.gg/CTT)
+- #optimize-lunar-client thread link on [CTT](https://dsc.gg/CTT)
 - `.lnk` to resourcepacks, .lunarclient
 - My ov3rlay bundle & bunch of resource pack folder links.
 . 
@@ -119,7 +118,6 @@ Inspiration came from:
 - [Fr33thy's to-do folder](https://drive.google.com/drive/folders/1ocl1dZpyeRjgNGpmEIA-Ay4BJ8Jex_l1)
 - [ChrisTitusTech's toolbox](https://github.com/ChrisTitusTech/win10script)
 
-Credits to:
-Tellinq for the amazing ffmpeg installation guide.
+- Tellinq for the amazing ffmpeg install guide.
 
 Join [**CTT**](https://dsc.gg/ctt)
