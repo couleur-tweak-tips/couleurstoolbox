@@ -97,19 +97,14 @@ Link to OBSproject's latest GitHub releases
 - #optimize-lunar-client thread link on [CTT](https://dsc.gg/CTT)
 - `.lnk` to resourcepacks, .lunarclient
 - My ov3rlay bundle & bunch of resource pack folder links.
-. 
 # 7. [FFmpeg](https://github.com/couleurm/couleurstoolbox/tree/main/7%20%20FFmpeg)
 
-- Fake upscale bats for Nvenc/AMF/x264 encoders
-        - Fake upscale to 4K with SendTo method, using XBR & Lanczos scale filters
-        - T-mixing
+- Upscale bats for Nvenc/AMF/x264 encoders
+    - T-mixing
 - Compression scripts by [vladaad](https://github.com/vladaad)
     - Compressor bat that compresses the video down to a specific size (8mb for Discord)
     - libx264 compressors
     - Downscale proxy
-- A few `.url` download links to FF-utils, Flowframes, Losslesscut and Voukoder.
-#### Compression scripts by vladaad:
-
 
 # Credits
 
